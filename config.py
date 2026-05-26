@@ -19,7 +19,7 @@ AUTHORS = [
     {"name": "Jacob Xavier Sundram", "email": "", "openreview_id": "~Jacob_Xavier_Sundram1"},
     {"name": "Jordan Pang", "email": "", "openreview_id": "~Jordan_Pang1"},
     {"name": "Lan Wang", "email": "", "openreview_id": "~Lan_Wang13"},
-    {"name": "Julian Kaljuvee", "email": "kaljuvee@gmail.com", "openreview_id": "~Julian_Kaljuvee1"},
+    {"name": "Julian Kaljuvee", "email": "kaljuvee@post.harvard.edu", "openreview_id": "~Julian_Kaljuvee1"},
 ]
 
 FORM_URL = (
