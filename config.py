@@ -38,11 +38,18 @@ RECOMMENDED_ANSWERS = {
         "No, I cannot serve because I am unqualified "
         "(we will check this and if you are qualified you will be required to review)."
     ),
-    "qualified_to_review": "No",
-    "emergency_reviewer": "No",
-    "metadata_donation": "Yes",
-    "attribution": "No, I do not wish to be attributed",
-    "agreement": "I agree (single cycle)",
+    "qualified_to_review": "No, I do not meet the ARR requirements to be a reviewer.",
+    "emergency_reviewer": "No, I am not willing to serve as an emergency reviewer or AC.",
+    "emergency_load": "N/A, in the previous question I indicated I do not wish to be an emergency reviewer or AC.",
+    "student": "No, I am not a student.",
+    "education": "Masters",
+    "profile_past_domains": "Yes",
+    "profile_all_emails": "Yes",
+    "metadata_donation": "Yes, I consent to donating anonymous metadata of my review for research.",
+    "dblp": "No, I have no DBLP listed publications.",
+    "semantic_scholar": "No, I have no Semantic Scholar listed publications.",
+    "attribution": "No, I do not wish to be attributed.",
+    "agreement": "I agree",
     "research_areas": [
         "NLP Applications",
         "Efficient Methods for NLP",
@@ -50,3 +57,6 @@ RECOMMENDED_ANSWERS = {
     ],
     "languages": ["English"],
 }
+
+# Julian Kaljuvee's form submitted 26 May 2026 23:05 EEST, note ID: u21VQQHCQ1
+JULIAN_REGISTRATION_NOTE_ID = "u21VQQHCQ1"
